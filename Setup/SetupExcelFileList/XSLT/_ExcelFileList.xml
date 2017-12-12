@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectOutput Name="ExcelFileList" ProjectDirVar="$(var.ExcelFileList.ProjectDir)" TargetDirVar="$(var.ExcelFileList.TargetDir)" SharedFileId="_46A778F4_2480_4044_B0B7_558B427BDB5E">
+  <Binaries>
+    <DiskId>1</DiskId>
+    <Compressed />
+    <Hidden>no</Hidden>
+    <KeyPath>no</KeyPath>
+    <ReadOnly>no</ReadOnly>
+    <System>no</System>
+    <Vital>yes</Vital>
+    <Condition><![CDATA[]]></Condition>
+    <SelfRegCost />
+    <TrueType>no</TrueType>
+    <Permanent>no</Permanent>
+    <SharedDllRefCount>no</SharedDllRefCount>
+    <Transitive>no</Transitive>
+    <HKCUKey><![CDATA[Software\[Manufacturer]\[ProductName]\Installer]]></HKCUKey>
+  </Binaries>
+  <Symbols>
+    <DiskId>1</DiskId>
+    <Compressed />
+    <Hidden>no</Hidden>
+    <KeyPath>yes</KeyPath>
+    <ReadOnly>no</ReadOnly>
+    <System>no</System>
+    <Vital>yes</Vital>
+    <Condition><![CDATA[]]></Condition>
+    <SelfRegCost />
+    <TrueType>no</TrueType>
+    <Permanent>no</Permanent>
+    <SharedDllRefCount>no</SharedDllRefCount>
+    <Transitive>no</Transitive>
+  </Symbols>
+  <Sources>
+    <DiskId>1</DiskId>
+    <Compressed />
+    <Hidden>no</Hidden>
+    <KeyPath>yes</KeyPath>
+    <ReadOnly>no</ReadOnly>
+    <System>no</System>
+    <Vital>yes</Vital>
+    <Condition><![CDATA[]]></Condition>
+    <SelfRegCost />
+    <TrueType>no</TrueType>
+    <Permanent>no</Permanent>
+    <SharedDllRefCount>no</SharedDllRefCount>
+    <Transitive>no</Transitive>
+  </Sources>
+  <Content>
+    <DiskId>1</DiskId>
+    <Compressed />
+    <Hidden>no</Hidden>
+    <KeyPath>yes</KeyPath>
+    <ReadOnly>no</ReadOnly>
+    <System>no</System>
+    <Vital>yes</Vital>
+    <Condition><![CDATA[]]></Condition>
+    <SelfRegCost />
+    <TrueType>no</TrueType>
+    <Permanent>no</Permanent>
+    <SharedDllRefCount>no</SharedDllRefCount>
+    <Transitive>no</Transitive>
+  </Content>
+  <Satellites>
+    <DiskId>1</DiskId>
+    <Compressed />
+    <Hidden>no</Hidden>
+    <KeyPath>yes</KeyPath>
+    <ReadOnly>no</ReadOnly>
+    <System>no</System>
+    <Vital>yes</Vital>
+    <Condition><![CDATA[]]></Condition>
+    <SelfRegCost />
+    <TrueType>no</TrueType>
+    <Permanent>no</Permanent>
+    <SharedDllRefCount>no</SharedDllRefCount>
+    <Transitive>no</Transitive>
+  </Satellites>
+  <Documents>
+    <DiskId>1</DiskId>
+    <Compressed />
+    <Hidden>no</Hidden>
+    <KeyPath>yes</KeyPath>
+    <ReadOnly>no</ReadOnly>
+    <System>no</System>
+    <Vital>yes</Vital>
+    <Condition><![CDATA[]]></Condition>
+    <SelfRegCost />
+    <TrueType>no</TrueType>
+    <Permanent>no</Permanent>
+    <SharedDllRefCount>no</SharedDllRefCount>
+    <Transitive>no</Transitive>
+  </Documents>
+</ProjectOutput>
