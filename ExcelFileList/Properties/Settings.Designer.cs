@@ -46,5 +46,29 @@ namespace ExcelFileList.Properties {
                 this["IsMaximized"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
+        public int skip_rows {
+            get {
+                return ((int)(this["skip_rows"]));
+            }
+            set {
+                this["skip_rows"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("1")]
+        public int skip_cols {
+            get {
+                return ((int)(this["skip_cols"]));
+            }
+            set {
+                this["skip_cols"] = value;
+            }
+        }
     }
 }
