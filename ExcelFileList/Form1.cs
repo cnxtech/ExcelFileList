@@ -77,6 +77,7 @@ namespace ExcelFileList
                 counter += 1;
                 ret = Path.Combine(docpath, string.Format("{0}_{1}({2}).csv", context, DateTime.Now.ToString(pattern), counter));
             }
+            ret = ret.Replace(' ', '_');
             return ret;
         }
 
@@ -98,7 +99,8 @@ namespace ExcelFileList
             //if (infile.Contains("Dropbox"))
             //    ret = infile.Substring(infile.IndexOf("Dropbox"));
             if (infile.Contains("\\"))
-                ret = infile.Substring(infile.LastIndexOf("\\")+1);
+                ret = infile.Substring(infile.LastIndexOf("\\") + 1);
+
             return ret;
         }
 
